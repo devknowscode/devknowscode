@@ -4,7 +4,7 @@
 ### Hi there 👋
 I'm [@Phat](https://twitter.com/devknowscode), a full-stack developer committed to creating web and mobile applications. With expertise in front-end and back-end technologies, using React, Node.js and mobile framework like React Native, Flutter, I can build good user experiences across both web and mobile platforms. Let's collaborate on innovative projects that make a lasting impact! 🌐📱
 
-<img src="./gif/pacman.gif" style="margin-left:20px" width="22.5%" height=auto align="right" alt="pacmans-eating">
+<img src="./gif/pacman.gif" style="margin-left:40px" width="22.5%" height=auto align="right" alt="pacmans-eating">
 Besides in my work, I'm also strong interested in AI. I love exploring the latest technologies in artificial intelligence and applying them to create innovative solutions. 🚀<br></br>
 
 Check out my GitHub for exciting AI-related projects like:
